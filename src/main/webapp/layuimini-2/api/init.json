@@ -1,0 +1,103 @@
+{
+  "homeInfo": {
+    "title": "首页",
+    "href": "./layuimini-2/page/index.jsp"
+  },
+  "logoInfo": {
+    "title": "",
+    "image": "./layuimini-2/images/logo.png",
+    "href": ""
+  },
+  "menuInfo": [
+    {
+      "title": "",
+      "icon": "fa fa-address-book",
+      "href": "",
+      "target": "_self",
+      "child": [
+        {
+          "title": "首页",
+          "href": "./layuimini-2/page/index.jsp",
+          "icon": "fa fa-home",
+          "target": "_self"
+        },
+        {
+          "title": "关于我们",
+          "href": "",
+          "icon": "fa fa-window-maximize",
+          "target": "_self",
+		  "child": [
+		    {
+		      "title": "公司简介",
+		      "href": "./layuimini-2/page/company_introduce.jsp",
+		      "icon": "fa fa-tachometer",
+		      "target": "_self"
+		    },
+		    {
+		      "title": "企业文化",
+		      "href": "./layuimini-2/page/company_culture.jsp",
+		      "icon": "fa fa-tachometer",
+		      "target": "_self"
+		    },
+		    {
+		      "title": "荣誉资质",
+		      "href": "./layuimini-2/page/company_honor.jsp",
+		      "icon": "fa fa-tachometer",
+		      "target": "_self"
+		    },
+			{
+			  "title": "发展历程",
+			  "href": "./layuimini-2/page/company_development.jsp",
+			  "icon": "fa fa-tachometer",
+			  "target": "_self"
+			}
+		  ]
+        },
+        {
+          "title": "产品中心",
+          "href": "",
+          "icon": "fa fa-cubes",
+          "target": "_self",
+		  "child": [
+		    {
+		      "title": "产品管理",
+		      "href": "product_manage.jsp",
+		      "icon": "fa fa-cube",
+		      "target": "_self"
+		    },
+			{
+			  "title": "产品种类、材质、空间管理",
+			  "href": "./layuimini-2/page/product_manage3.jsp",
+			  "icon": "fa fa-cube",
+			  "target": "_self"
+			}
+			]
+        },
+        {
+          "title": "新闻、保养管理",
+          "href": "./layuimini-2/page/news_manage.jsp",
+          "icon": "fa fa-file-text",
+          "target": "_self"
+        },
+        {
+          "title": "加盟管理",
+          "href": "./layuimini-2/page/join_manage.jsp",
+          "icon": "fa fa-calendar",
+          "target": "_self"
+        },
+        {
+          "title": "联系人管理",
+          "href": "./layuimini-2/page/linkman.jsp",
+          "icon": "fa fa-phone-square",
+          "target": "_self"
+        },
+        {
+          "title": "留言管理",
+          "href": "./layuimini-2/page/msg_manage.jsp",
+          "icon": "fa fa-envelope",
+          "target": "_self"
+        }
+      ]
+    }
+  ]
+}
