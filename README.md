@@ -5,7 +5,15 @@
 #### 后端：
 - spring+spring mvc+spring jdbctemplate
 - 后端页面：layui 框架
+#### 后端页面
+![image](https://user-images.githubusercontent.com/76216210/156913392-0ab70758-41fa-47ea-b80d-73f6cfd2dc0b.png)
+
 #### 前端：
 - jquery+bootstrap
+#### 前端页面
+![image](https://user-images.githubusercontent.com/76216210/156913475-2dd9a7cb-9ddc-45b7-8b25-8d467604916d.png)
+![image](https://user-images.githubusercontent.com/76216210/156913493-5768994c-18bb-4c75-b436-92d2e033193f.png)
+
+
 
 
